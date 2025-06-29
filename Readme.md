@@ -28,5 +28,5 @@ The projects are organized in numbered directories, representing a clear progres
 *   Basic familiarity with command-line navigation.
 *   All scripts are written for `bash`.
 
-
-The READMEs, and dummy files in the repository are all AI Generated (Gemini).
+> [!NOTE]
+> The READMEs, and dummy files in the repository are all AI Generated (Gemini).
