@@ -1,0 +1,8 @@
+# Application Configuration
+database:
+  host: localhost
+  port: 5432
+  user: app_user
+api_keys:
+  - key1: "abc-123-def"
+  - key2: "xyz-789-uvw"

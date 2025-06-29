@@ -8,7 +8,6 @@
 log_summary_*.txt
 
 # Project 5: Admin Tool
-*.log
 deployment_target/
 
 # Common macOS files
